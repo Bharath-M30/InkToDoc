@@ -1,0 +1,44 @@
+# === React Native (InkToDoc) ===
+
+# Node modules
+InkToDoc/node_modules/
+
+# Expo and Metro bundler
+InkToDoc/.expo/
+InkToDoc/.expo-shared/
+
+# Logs
+InkToDoc/npm-debug.log*
+InkToDoc/yarn-debug.log*
+InkToDoc/yarn-error.log*
+InkToDoc/metro-cache/
+InkToDoc/dist/
+InkToDoc/build/
+
+# macOS files
+InkToDoc/.DS_Store
+
+# Android/iOS build artifacts (if added later)
+InkToDoc/android/
+InkToDoc/ios/
+
+# Temporary files
+InkToDoc/tmp/
+InkToDoc/.env
+
+# === Python (InkToDoc-backend) ===
+
+# Virtual environments
+InkToDoc-backend/venv/
+
+# Byte-compiled / cache
+InkToDoc-backend/__pycache__/
+InkToDoc-backend/*.py[cod]
+InkToDoc-backend/*$py.class
+
+# Logs and system files
+InkToDoc-backend/.DS_Store
+InkToDoc-backend/*.log
+
+# Environment files
+InkToDoc-backend/.env

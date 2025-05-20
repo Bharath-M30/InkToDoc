@@ -1,0 +1,10 @@
+#modules:
+fastapi
+uvicorn
+python-multipart
+transformers
+torchvision
+torchaudio
+pillow
+docx
+fpdf
